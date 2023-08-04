@@ -1,0 +1,8 @@
+D:\PTPMQL\BaiTesst\obj\Debug\net7.0\BaiTesst.csproj.AssemblyReference.cache
+D:\PTPMQL\BaiTesst\obj\Debug\net7.0\BaiTesst.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTPMQL\BaiTesst\obj\Debug\net7.0\BaiTesst.AssemblyInfoInputs.cache
+D:\PTPMQL\BaiTesst\obj\Debug\net7.0\BaiTesst.AssemblyInfo.cs
+D:\PTPMQL\BaiTesst\obj\Debug\net7.0\BaiTesst.csproj.CoreCompileInputs.cache
+D:\PTPMQL\BaiTesst\obj\Debug\net7.0\BaiTesst.MvcApplicationPartsAssemblyInfo.cache
+D:\PTPMQL\BaiTesst\obj\Debug\net7.0\BaiTesst.RazorAssemblyInfo.cache
+D:\PTPMQL\BaiTesst\obj\Debug\net7.0\BaiTesst.RazorAssemblyInfo.cs
